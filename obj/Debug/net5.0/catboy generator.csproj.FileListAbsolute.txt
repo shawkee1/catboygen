@@ -1,0 +1,16 @@
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\catboy generator.exe
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\catboy generator.deps.json
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\catboy generator.runtimeconfig.json
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\catboy generator.runtimeconfig.dev.json
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\catboy generator.dll
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\ref\catboy generator.dll
+C:\Users\squid\OneDrive\Desktop\catboy generator\bin\Debug\net5.0\catboy generator.pdb
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.csprojAssemblyReference.cache
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.AssemblyInfoInputs.cache
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.AssemblyInfo.cs
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.csproj.CoreCompileInputs.cache
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.dll
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\ref\catboy generator.dll
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.pdb
+C:\Users\squid\OneDrive\Desktop\catboy generator\obj\Debug\net5.0\catboy generator.genruntimeconfig.cache
